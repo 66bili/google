@@ -1,7 +1,7 @@
 const { createProxyMiddleware } = require("http-proxy-middleware");
 
-module.exports = (req, res) => {
-  let target = "https://google.com/";//your website url
+module.exports = (req, res) => {{
+  let target = "https://bing.com/";//your website url
   //   if (
   //     req.url.startsWith("/api") ||
   //     req.url.startsWith("/auth") ||
@@ -14,10 +14,10 @@ module.exports = (req, res) => {
   createProxyMiddleware({
     target,
     changeOrigin: true,
-    pathRewrite: {
+    pathRewrite: {{
       // rewrite request path `/backend`
       //  /backend/user/login => http://google.com/user/login
       //   "^/backend/": "/",
-    },
-  })(req, res);
+    }}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}},
+  })(reqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqrereqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreq, resresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresreresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresresres);
 };
